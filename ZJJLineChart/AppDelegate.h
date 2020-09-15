@@ -10,6 +10,8 @@
 
 @interface AppDelegate : UIResponder <UIApplicationDelegate>
 
+/// window
+@property (nonatomic, strong) UIWindow *window;
 
 @end
 
